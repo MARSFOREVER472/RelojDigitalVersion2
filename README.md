@@ -4,4 +4,4 @@
 
 ### **_Programación utilizando las herramientas de Javascript:_**
 
-Cómo programar/hacer un RELOJ DIGITAL con HTML, CSS y Javascript. 
+Cómo programar/hacer un RELOJ DIGITAL usando HTML, CSS y Javascript. 
