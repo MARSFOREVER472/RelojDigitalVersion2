@@ -10,4 +10,4 @@
   
 - **_Cómo codificar un lujoso Reloj Digital utilizando múltiples lenguajes de programación por Javascript!_**
 
-- **_Aplicaciones reales codificadas usando JavaScript._**
+- **_Aplicaciones reales codificadas utilizando JavaScript._**
