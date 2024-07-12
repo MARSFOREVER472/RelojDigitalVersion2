@@ -2,4 +2,4 @@
 
 ## **_Cómo programar un RELOJ DIGITAL en Javascript (Desde Cero)!_**
 
-### **_Programación utilizando Javascript:_**
+### **_Programación utilizando las herramientas de Javascript:_**
