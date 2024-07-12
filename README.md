@@ -8,4 +8,4 @@
   
 - **_Cómo programar un lujoso Reloj Digital utilizando Javascript._**
   
-- **_Cómo codificar un lujoso Reloj digital utilizando múltiples lenguajes de programación por Javascript!_**
+- **_Cómo codificar un lujoso Reloj Digital utilizando múltiples lenguajes de programación por Javascript!_**
