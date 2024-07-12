@@ -12,4 +12,4 @@
 
 - **_Aplicaciones reales codificadas utilizando JavaScript._**
   
-- Este es un ejemplo de un programa realizado en Javascript!
+- _Este es un ejemplo de un programa realizado en Javascript!_
