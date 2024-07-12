@@ -6,4 +6,4 @@
 
 - **_Cómo programar un RELOJ DIGITAL utilizando HTML, CSS y Javascript._**
   
-- Cómo programar un Reloj Digital usando Javascript.
+- Cómo programar un Reloj Digital utilizando Javascript.
