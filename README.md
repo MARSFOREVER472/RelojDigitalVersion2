@@ -14,4 +14,4 @@
   
 - **_Éste es un ejemplo de un programa realizado en Javascript!_**
 
-- Si eres una persona que realiza con frecuencia ejercicios de Javascript y estás buscando un ejemplo real de una aplicación desarrollada en Javascript, este es un buen ejemplo con el que poder practicar! 
+- Si eres una persona que realiza con frecuencia ejercicios de Javascript y estás buscando un ejemplo real de una aplicación desarrollada en Javascript, este es un buen ejemplo con el que puedes practicar! 
