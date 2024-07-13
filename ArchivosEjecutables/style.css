@@ -1,0 +1,19 @@
+body {
+    background: #110011;
+}
+
+@font-face {
+    font-family: "DS-Digital";
+    src: url("../digital_clock_javascript_version1/DS-DIGIT.TTF") format('truetype');
+}
+
+div
+{
+    position: relative;
+    display: flex;
+    flex: wrap;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
