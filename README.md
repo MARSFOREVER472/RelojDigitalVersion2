@@ -12,7 +12,7 @@
 
 - **_Aplicaciones reales codificadas utilizando JavaScript._**
   
-- **_Éste es un ejemplo de un programa realizado en Javascript!_**
+- **_Éste es un ejemplo de un programa completo realizado en Javascript!_**
 
 - **_Si eres una persona que realiza con frecuencia ejercicios de Javascript y estás buscando un ejemplo real de una aplicación desarrollado en Javascript, entonces éste es un buen ejemplo con el que puedes practicar!_**
 
