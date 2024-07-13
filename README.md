@@ -18,6 +18,6 @@
 
 - **_En este proyecto queremos mostrarte cómo podemos crear un reloj digital desde 0, utilizando las tecnologías HTML, CSS Y Javascript!_**
 
-- **_Este es un buen ejercicio que puedes agregar a tu colección de programas desarrollados con Javascript._**
+- **_Éste es un buen ejercicio que puedes agregar a tu colección de programas desarrollados con Javascript._**
 
 - **_En este proyecto empleamos el operador ternario de Javascript, el método ```setInterval```, ```getElementById()```, el objeto ```Date```, entre otras muchas sentencias de Javascript._**
