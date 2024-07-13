@@ -1,6 +1,6 @@
 # **_RelojDigitalVersion2_**
 
-## **_Cómo programar un lujoso RELOJ DIGITAL con Javascript (Desde Cero)!_**
+## **_Cómo programar un lujoso RELOJ DIGITAL con Javascript (Desde 0)!_**
 
 ### **_Programación utilizando las herramientas de Javascript:_**
 
