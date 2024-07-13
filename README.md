@@ -20,4 +20,4 @@
 
 - **_Es un buen ejercicio que puedes agregar a tu colección de programas desarrollados en Javascript._**
 
-- **_En este proyecto empleamos el operador ternario de Javascript, el método setInterval, getElementById, el objeto Date, entre otras muchas sentencias de Javascript._**
+- **_En este proyecto empleamos el operador ternario de Javascript, el método ```setInterval```, getElementById, el objeto Date, entre otras muchas sentencias de Javascript._**
