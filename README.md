@@ -16,7 +16,7 @@
 
 - **_Si eres una persona que realiza con frecuencia ejercicios de Javascript y estás buscando un ejemplo real de una aplicación desarrollado en Javascript, entonces éste es un buen ejemplo con el que puedes practicar!_**
 
-- **_En este proyecto queremos mostrarte cómo podemos crear un reloj digital desde cero, utilizando las tecnologías HTML, CSS Y Javascript!_**
+- **_En este proyecto queremos mostrarte cómo podemos crear un reloj digital desde 0, utilizando las tecnologías HTML, CSS Y Javascript!_**
 
 - **_Es un buen ejercicio que puedes agregar a tu colección de programas desarrollados en Javascript._**
 
