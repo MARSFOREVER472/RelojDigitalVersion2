@@ -1,6 +1,6 @@
 # **_RelojDigitalVersion2_**
 
-## **_Cómo programar un lujoso RELOJ DIGITAL en Javascript (Desde Cero)!_**
+## **_Cómo programar un lujoso RELOJ DIGITAL con Javascript (Desde 0)!_**
 
 ### **_Programación utilizando las herramientas de Javascript:_**
 
@@ -12,12 +12,12 @@
 
 - **_Aplicaciones reales codificadas utilizando JavaScript._**
   
-- **_Éste es un ejemplo de un programa realizado en Javascript!_**
+- **_Éste es un ejemplo de un programa completo realizado en Javascript!_**
 
-- **_Si eres una persona que realiza con frecuencia ejercicios de Javascript y estás buscando un ejemplo real de una aplicación desarrollada en Javascript, entonces éste es un buen ejemplo con el que puedes practicar!_**
+- **_Si eres un usuario que realiza con frecuencia ejercicios de Javascript y que estás buscando un ejemplo real de una aplicación desarrollado en Javascript, entonces éste es un buen ejemplo con el que puedes practicar!_**
 
-- **_En este proyecto queremos mostrarte cómo podemos crear un reloj digital desde cero, utilizando las tecnologías HTML, CSS Y Javascript!_**
+- **_En este proyecto queremos mostrarte cómo podemos crear un reloj digital desde 0, utilizando las tecnologías HTML, CSS Y Javascript!_**
 
-- **_Es un buen ejercicio que puedes añadir a tu colección de programas desarrollados en Javascript._**
+- **_Éste es un buen ejercicio que puedes agregar a su colección de programas desarrollados con Javascript._**
 
-- **_En este proyecto empleamos el operador ternario de Javascript, el método setInterval, getElementById, el objeto Date, entre otras muchas sentencias de Javascript._**
+- **_En este proyecto empleamos un operador ternario de Javascript, el método ```setInterval```, ```getElementById()```, el objeto ```Date```, entre otras muchas sentencias de Javascript._**
